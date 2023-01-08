@@ -18,7 +18,9 @@ This project is one of the a variety of initiatives that are applicable to all p
   - Help us create issues for the projects
   - Help us do the admin steps in the issues
 
-## If its your project, claim your issue, and start doign the action items
+## If its your project
+- claim your issus
+- start doign the action items
 
 
 # Contact info
