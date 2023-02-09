@@ -11,13 +11,6 @@ assignees: ''
 
 ---
 
-# Issue Template Details
-
-Issue name: Meeting Data Audit: [Replace PROJECT NAME]
-Labels: feature: calendaring, prep, status: needs audit spreadsheet, status: needs Slack audit document, status: needs post audit recommendations document, status: needs calendar event audit, status: needs hackforla.org/VRMS audit, status: needs Slack audit, status: needs Slack data, status: needs Zoom Setup data, status: needs Slack reconciliation, status: needs recommendations
-
-------
-
 ### Overview
 We need to audit all calendar events for a given project to match the Zoom Setup and Zoom Audit Spreadsheet so that we can optimize the availability of the Zoom rooms and have the most current meeting information.
 
