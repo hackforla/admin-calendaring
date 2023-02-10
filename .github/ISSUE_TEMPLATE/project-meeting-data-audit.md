@@ -1,5 +1,5 @@
 ---
-name: Meeting Data Audit
+name: Project Meeting Data Audit
 about: Instructions for auditing project meeting data/calendar events
 title: 'Meeting Data Audit: [Replace PROJECT NAME]'
 labels: 'feature: calendaring, prep, status: needs audit spreadsheet, status: needs
