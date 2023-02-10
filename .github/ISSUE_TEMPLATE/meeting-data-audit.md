@@ -55,7 +55,7 @@ For each of the following items, there are instructions in the wiki. Copy the in
 During these tasks you will be asked to add link to resources, and that section is at the bottom of this issue (go view it now).
 
 - [ ] [Create Slack Audit document](https://github.com/hackforla/admin-calendaring/wiki/Create-Slack-Audit-document) 
-- [ ] [Add Slack channel(s)](https://github.com/hackforla/admin-calendaring/wiki/Add-Slack-Channel(s))
+- [ ] [Add Slack channel(s) to the Slack Audit document](https://github.com/hackforla/admin-calendaring/wiki/Add-Slack-Channel(s))
 - [ ] [Create Recommendations & Next Steps document](https://github.com/hackforla/admin-calendaring/wiki/Create-Recommendations-&-Next-Steps-document)
 - [ ] [Create Meeting Data Audit and Reconciliation Spreadsheet](https://github.com/hackforla/admin-calendaring/wiki/Create-Meeting-Data-Audit-and-Reconciliation-Spreadsheet)
 - [ ] After the first 4 Prep items have been checked off and their labels removed, 
@@ -95,6 +95,6 @@ During these tasks you will be asked to add link to resources, and that section 
 
 #### Resources/Instructions
 1.0 [Zoom Setup Spreadsheet](https://docs.google.com/spreadsheets/d/15P3MYyNQ7Xn0pqdrTynDDipjrLl5LCN9xHVLhk9SWa8/edit#gid=1276874845)
-2.0 [[Replace PROJECT NAME]: Meeting Data Audit and Reconciliation Spreadsheet]
-3.0 [[Replace PROJECT NAME]: Slack Audit Document]
-4.0 [[Replace PROJECT NAME]: Post Audit Recommendations]
+2.0 [[Replace PROJECT NAME]: Slack Audit Document]
+3.0 [[Replace PROJECT NAME]: Post Audit Recommendations]
+4.0 [[Replace PROJECT NAME]: Meeting Data Audit and Reconciliation Spreadsheet]
