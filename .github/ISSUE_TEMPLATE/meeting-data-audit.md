@@ -21,7 +21,7 @@ We need to audit all calendar events for a given project to match the Zoom Setup
 #### If you are the PM on the project this issue is for
 -  access to the 1Password vault for the project
 - access to the project's shared drive through the project's email Chrome profile
-  - [ ] add the project's email as a `Contributor` if the drive is not already shared with the email
+  - [ ] add the project's email as a `Content Manager` if the drive is not already shared with the email
 - know your GitHub username and password so that you can use it in the project email's Chrome profile
  
 ### Action Items
