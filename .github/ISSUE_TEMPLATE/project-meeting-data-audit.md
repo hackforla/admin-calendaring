@@ -25,26 +25,20 @@ We need to audit all calendar events for a given project to match the Zoom Setup
 - know your GitHub username and password so that you can use it in the project email's Chrome profile
  
 ### Action Items
-#### Setup
-##### Customize Issue
-- [ ] click the `Edit` button next to the issue title and replace `[Replace PROJECT NAME]` with the project's name
-- [ ] Search for `[Replace PROJECT NAME]` in this issue
-   - [ ] Replace with the name of the project (e.g., Expunge Assist)
-- [ ] add this issue to the `Project Management` board
-- [ ] if you will be working on this issue right away, assign yourself and move it to `In Progress`
-- [ ] if you will not be working on this issue right away, move it to `Prioritized Backlog`
-- [ ] Delete the customize issue section (7 prior lines starting from ```### Customize issue```)
-##### Setup Access Through Proper Profile
-- PMs
-   - [ ] Log into the project's email and open it in a new chrome profile, so that you can access the account's calendar
-   - [ ] open this issue in the project's profile browser and follow steps to Access GitHub
+
+#### Setup Access Through Proper Profile
 - Non PMs
    - [ ] Log into the [hfla-email-all@hackforla.org](mailto:hfla-email-all@hackforla.org) email and open it in a new chrome profile, so that you can access the account's calendar
    - [ ] open this issue in the hfla-email-all profile browser and follow steps to Access GitHub
-##### Access GitHub
+- PMs
+   - [ ] Log into the project's email and open it in a new chrome profile, so that you can access the account's calendar
+   - [ ] open this issue in the project's profile browser and follow steps to Access GitHub
+
+#### Access GitHub
 - [ ] Log into your GitHub account.  If you are already logged in you will see either your icon.  If you are not, you will see a sign-in button top right in the issue that is open now in the new profile browser.
 - [ ] Close any other browsers you have open that are not in the new profile browser, so that you don't end up opening links in the wrong browser (this will be particularly important when you are accessing drives)
-##### Add Org Level Audits folder to Starred
+
+#### Add Org Level Audits folder to Starred
 If you do not see the project's drive in the list of shared drives, see Prerequisite
 - [ ] access the `Org Level Audits` folder in the project's shared drive
 - [ ] right click on the folder and select `Add to starred`
@@ -54,19 +48,20 @@ For each of the following items, there are instructions in the wiki. Copy the in
 
 During these tasks you will be asked to add link to resources, and that section is at the bottom of this issue (go view it now).
 
-- [ ] [Create Slack Audit document](https://github.com/hackforla/admin-calendaring/wiki/Create-Slack-Audit-document) 
-- [ ] [Add Slack channel(s) to the Slack Audit document](https://github.com/hackforla/admin-calendaring/wiki/Add-Slack-Channel(s))
-- [ ] [Create Recommendations & Next Steps document](https://github.com/hackforla/admin-calendaring/wiki/Create-Recommendations-&-Next-Steps-document)
-- [ ] [Create Meeting Data Audit and Reconciliation Spreadsheet](https://github.com/hackforla/admin-calendaring/wiki/Create-Meeting-Data-Audit-and-Reconciliation-Spreadsheet)
+- [ ] [Create Slack Audit document](https://github.com/hackforla/admin-calendaring/wiki/Create-Slack-Audit-document) (open in new tab)
+- [ ] [Add Slack channel(s) to the Slack Audit document](https://github.com/hackforla/admin-calendaring/wiki/Add-Slack-Channel(s)) (open in new tab)
+- [ ] [Create Recommendations & Next Steps document](https://github.com/hackforla/admin-calendaring/wiki/Create-Recommendations-&-Next-Steps-document) (open in new tab)
+- [ ] [Create Meeting Data Audit and Reconciliation Spreadsheet](https://github.com/hackforla/admin-calendaring/wiki/Create-Meeting-Data-Audit-and-Reconciliation-Spreadsheet) (open in new tab)
 - [ ] After the first 4 Prep items have been checked off and their labels removed, 
    - [ ] remove the `prep` label
    - [ ] add the `admin prep` label
    - [ ] move issue to `Prioritized Backlog` on the project board
    - [ ] unassign yourself
    - [ ] remove the `Org Level Audits` folder from Starred
-      - [ ] access https://drive.google.com/drive/starred
+      - [ ] access https://drive.google.com/drive/starred (open in new tab)
       - [ ] look for the `Org Level Audits` folder that belongs to the project by looking under `Owner` for the project name
       - [ ] right click on the folder and select `Remove from starred`
+
 #### Admin Prep
 - [ ] [Import project's data from Zoom Setup spreadsheet](https://github.com/hackforla/admin-calendaring/wiki/Import-project's-data-from-Zoom-Setup-spreadsheet)
 - [ ] [Setup Automation Formulas for the Audit](https://github.com/hackforla/admin-calendaring/wiki/Setup-Automation-Formulas-for-the-Audit)
