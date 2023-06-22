@@ -59,7 +59,7 @@ If you do not see the project or CoP's drive in the list of shared drives, see `
 <details><summary>Notes</summary>
 
 <i>There are automation formulas used throughout the meeting data and audit reconciliation sheet to autofill cells and generate messages regarding meetings with nonstandard setup. These formulas are indicated in a light grey color. 
-- During the `Admin Prep` you will be asked to confirm that there are formulas in the correct cells and columns, which will easily be recognizable by the light grey
+- During the `Audit Prep` you will be asked to confirm that there are formulas in the correct cells and columns, which will easily be recognizable by the light grey
 - Please do not edit any cells that are indicated to have formulas</i>
 </details>
 
