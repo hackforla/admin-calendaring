@@ -45,7 +45,7 @@ We need to audit all calendar events for a given project to match the Zoom Setup
 
 
 #### Access GitHub
-- Log into your GitHub account.  If you are already logged in you will see either your icon.  If you are not, you will see a sign-in button top right in the issue that is open now in the new profile browser.
+- Log into your GitHub account.  If you are already logged in you will see your icon.  If you are not, you will see a sign-in button top right in the issue that is open now in the new profile browser.
 - Assign yourself to this issue and move it to `In progress (actively working)`
 - Close any other browsers you have open that are not in the new profile browser, so that you don't end up opening links in the wrong browser (this will be particularly important when you are accessing drives)
 
